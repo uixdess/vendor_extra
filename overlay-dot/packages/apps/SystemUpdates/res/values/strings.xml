@@ -9,6 +9,6 @@
           {type} - Build type
           {incr} - Incremental version
     -->
-    <string name="updater_server_url" translatable="false">https://kudnet.id/ota/dot11/{device}/builds.json</string>
-    <string name="updater_server_url_gapps" translatable="false">https://kudnet.id/ota/dot11/{device}/builds_gapps.json</string>
+    <string name="updater_server_url" translatable="false">https://stuff.uixdess.workers.dev/4:/{device}/builds.json</string>
+    <string name="updater_server_url_gapps" translatable="false">https://stuff.uixdess.workers.dev/4:/{device}/builds_gapps.json</string>
 </resources>
